@@ -1,2 +1,3 @@
 # matrix
-Sparse matrix homework
+Homework 6
+Sparse matrix
